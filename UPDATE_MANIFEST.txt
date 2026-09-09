@@ -1,4 +1,4 @@
 version=1.0.3
 url=https://raw.githubusercontent.com/NotAJavan/t-os-update-public-repo/main/kernel.bin
-checksum=4aeb23c4
+checksum=0466d78c
 size=1329124
